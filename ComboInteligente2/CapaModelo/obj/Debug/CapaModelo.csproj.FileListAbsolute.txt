@@ -1,0 +1,6 @@
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Andrea\Desktop\Practica Analisis\ComboInteligente2\CapaModelo\obj\Debug\CapaModelo.pdb
